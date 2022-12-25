@@ -1,0 +1,16 @@
+# a = (1,2,3,True)
+# b = (33,7,'jack')
+# c = (a,1,'papun',88,b)
+# print(a)
+# print(b)
+# print(c)
+# print(c[1])
+# print(c[4])
+# print(c[4][2])
+# print(c[2:])
+# print(c[2:4])
+# print(c[2:5])
+
+a = [1,2,3,'jack']
+''.join([a])
+print(a)
